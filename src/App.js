@@ -29,6 +29,7 @@ function App() {
             pic={'https://upload.wikimedia.org/wikipedia/en/9/9d/Maggie_Simpson.png'}
             text={'Margaret Evelyn Lenny "Maggie" Simpson is a fictional character in the animated television series The Simpsons and a part of the Simpson family, notably the youngest member.'}
 
+
             />
     </div>
   );
