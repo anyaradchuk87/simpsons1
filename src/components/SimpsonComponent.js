@@ -9,7 +9,6 @@ export default function SimpsonComponent (props) {
             <h2>{itemName}</h2>
             <img src={pic}/>
             <p>{text}</p>
-
         </div>
     )
 }
